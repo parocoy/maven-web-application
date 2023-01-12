@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Web Application Project30 automation.</h1>
-<h2 align="center">We are developing and supporting quality Software Solution to million of clients globally.
-	           We are raising millionaires in IT automation.
+<h1 align="center">Welcome to Landmark Tesla Project.</h1>
+<h2 align="center">We are developing and supporting quality Software Solution to million of clients.
+	           We are raising millionaires in IT
 	We offer Training for DevOps with Linux and Cloud equiping IT Engineers for best performance.</h2>
 <hr>
 <div style="text-align: center;">
