@@ -17,6 +17,7 @@ pipeline{
            sh "mvn clean package"
         }
     }
+    /*
     stage('4CodeQuality'){
         steps{    
            sh "echo 'performing CodeQualityAnalysis' "
@@ -58,4 +59,5 @@ Thanks
 Landmark
 +1 773 406 3199''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'}
      }
+  */   
    }
